@@ -1,5 +1,5 @@
 example input and output :
-
+```
 {
   "company": {
     "name": "Tech Solutions Inc.",
@@ -260,7 +260,7 @@ example input and output :
     }
   ]
 }
-
+```
 
 example output :
 
